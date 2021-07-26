@@ -4,6 +4,9 @@
 Our enemy is centralization.  
 Our enemy is monopolization.  
 Our enemy is the one.  
+
+###### Nevertheless,  
+### ***We must have great unity.***  
 ##### ***21C Mankind***
 ---
 

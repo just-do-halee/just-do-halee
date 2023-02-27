@@ -21,6 +21,8 @@ Our enemy is the one.
 [![Blockchain](https://img.shields.io/badge/-blockchain-red)](#) [![Inventor](https://img.shields.io/badge/-inventor-critical)](#)
 
 <br>
+  
+[![](https://img.shields.io/static/v1?label=&color=blue&message=About%20my%20life&style=for-the-badge)](https://github.com/just-do-halee/my-life)
 
 [![](https://img.shields.io/github/commit-activity/w/just-do-halee/TIL-dev?color=gray&label=Today%20I%20learned&style=for-the-badge)](https://github.com/just-do-halee/TIL-dev)
 
